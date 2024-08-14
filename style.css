@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    height: auto;
+    background-color: hsl(212, 23%, 69%);
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    font-family: 'Manrope' sans-serif;
+}
+.Author{
+    display: flex;
+    gap: 5px;
+}
+h2,.name {
+    color: hsl(217, 19%, 35%);
+}
